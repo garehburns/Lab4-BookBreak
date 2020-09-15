@@ -1,0 +1,27 @@
+DATE:  9/20/19       BOOK INVENTORY REPORT    CGB                   PAGE  1
+
+BOOK       AUTHOR             TITLE            QTY ON  SELLING        TOTAL
+CODE                                            HAND     PRICE        VALUE
+
+01       MELTON, C        STRUCTURED FORTRAN       0     27.00          .00
+
+01       ALBERT, D        FORTRAN ESSENTIALS       9     27.00       248.40
+01       DARGINSKY, J     FORTRAN PROGRAMS       02r     22.20          .00
+01       LANG, D          FORTRAN CODE            24     38.40       921.60
+
+01       WHITE, F         APPLIED FORTRAN 77      24     38.40       849.60
+
+02       HART, M          STRUCTURED COBOL        27     38.40       810.00
+02       D'ANJOU, L       COBOL-85 MADE EASY     02y     26.88          .00
+02       GARDINER, J      ELEMENTS OF COBOL        2     30.30        60.60
+
+02       HUGHES, A        COBOL CODE SAMPLES     """     30.30          .00
+02       ABE, J           STRUCTURED COBOL       923     99.40    91,746.20
+03       POTUSHEK, F      ELEMENTS OF BASIC       23     28.32       651.36
+03       COCKBURN, B      BASIC CODE               5     32.40       162.00
+03       FURCHT, S        ADVANCED BASIC          16     34.20       547.20
+03       TODD, C          STRUCTURED BASIC        23     36.00       828.00
+
+03       WAGNER, R        BASIC PROB SOLVING     ?+X     36.00          .00
+04       ANN, R           PASCAL STRUCTURES       10     39.60       396.00
+04       SCOLLO, L        PASCAL APPLIED          23     26.40       607.20
